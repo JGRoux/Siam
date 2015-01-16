@@ -3,7 +3,7 @@ Siam
 
 School Siam project
 
-Dévellopeurs:
+Contributeurs:
 - Alexandre Bensimon
 - Emilien Garreau
 - Jean-Guillaume Roux
