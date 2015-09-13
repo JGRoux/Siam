@@ -1,4 +1,4 @@
-Siam project
+Siam game project
 
 **Contributeurs:**
 - Alexandre Bensimon
