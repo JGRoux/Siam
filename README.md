@@ -1,9 +1,6 @@
-Siam
-====
+Siam project
 
-School Siam project
-
-Contributeurs:
+**Contributeurs:**
 - Alexandre Bensimon
 - Emilien Garreau
 - Jean-Guillaume Roux
